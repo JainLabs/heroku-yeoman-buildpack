@@ -1,0 +1,12 @@
+{
+    "author": "Friend Shuffler",
+    "name": "friend-shuffler",
+    "version": "1.0.0",
+    "dependencies": {
+        "gzippo" : "0.2.0",
+        "express" : "2.x"
+    },
+    "engines": {
+        "node": ">= 0.6.0 < 0.7.0"
+    }
+}
